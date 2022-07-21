@@ -27,6 +27,3 @@ Some functions that you should have in your smart contract -
 Apart from the above functions you are free to add your own functionality which can help in making this smart contract more secure and better.
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please visit [codedamn feedback page](https://codedamn.com/contact)
-#� �L�o�t�t�e�r�y�P�r�o�j�e�c�t�
-�
-�
