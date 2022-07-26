@@ -24,6 +24,14 @@ Some functions that you should have in your smart contract -
 3. random() - To generate a random number.This will help you to randomly pick a winner.
 4. pickWinner() - To pick the winner of the smart contract.
 
+## Project checklist
+
+- [ ] Functionality to save the address of the manager.
+- [ ] Functionality to participate in the lottery.
+- [ ] Functionality to pick the winner of the contract randomly.
+- [ ] Functionality to get the balance of the contract.
+
+
 Apart from the above functions you are free to add your own functionality which can help in making this smart contract more secure and better.
 
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please visit [codedamn feedback page](https://codedamn.com/contact)
